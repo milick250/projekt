@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Fesb_GameSDK</name>
+    </assembly>
+    <members>
+        <member name="F:Fesb_GameSDK.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Fesb_GameSDK.BGL">
+            <summary>
+            -
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.BGL.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.BGL.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.BGL.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Fesb_GameSDK.Game">
+            <summary>
+            Klasa za općenite aktivnosti vezane uz igru.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Game.WaitMS(System.Int32)">
+            <summary>
+            Pauzira izvršavanje trenutne metode
+            </summary>
+            <param name="ms"></param>
+        </member>
+        <member name="M:Fesb_GameSDK.Game.AddSprite(Fesb_GameSDK.Sprite)">
+            <summary>
+            Metoda za dodavanje novih likova u listu svih postojećih likova
+            </summary>
+            <param name="s">Sprite kojeg dodajemo u listu svih likova.</param> 
+        </member>
+        <member name="M:Fesb_GameSDK.Game.StartScript(System.Func{System.Int32})">
+            <summary>
+            Metoda koja poziva paralelno izvršavanje metode <c>scriptName</c>.
+            </summary>
+            <param name="scriptName"></param>
+            <example>
+            <para>Metoda (skripta ili procedura) koju pokreće <c>Game.StartScript</c> mora biti napisana na određen način inače se neće prihvatiti. 
+            Metoda mora imati povratnu vrijednost tipa <c>int</c> koja se može koristiti za povratnu informaciju je li se dogodila pogreška (npr. 0 nije bilo pogreške). 
+            Sve metode/skripte pozvane putem Game.StartScript() se izvršavaju istovremeno.
+            </para>
+            Primjer:
+            <code>
+            private int MetodaLika()
+            {
+                //kod
+                return 0;
+            }
+            </code>
+            <para>Obično se za aktivnosti lika koje traju dulje vrijeme (ili tijekom trajanja igre) koristi petlja while. 
+            Pri tome se za uvjet petlje koristi vrijabla START (vidi: <see cref="F:Fesb_GameSDK.BGL.START"/>).
+            <code>
+            while (START)
+            {
+                //radi nešto
+            }
+            </code>
+            </para>
+            </example>
+        </member>
+        <member name="T:Fesb_GameSDK.GameOptions">
+            <summary>
+            Game options
+            </summary>
+        </member>
+        <member name="T:Fesb_GameSDK.Sensing">
+            <summary>
+            Klasa <c>Sensing</c> služi za očitavanje događaja s tipkovnice i miša.
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.Sensing.key">
+            <summary>
+            Miš pritisnut.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Sensing.KeyPressedTest">
+            <summary>
+            Je li bilo koja tipka pritisnuta.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Sensing.Key">
+            <summary>
+            Tipka koja je pritisnuta (string).
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Sensing.#ctor">
+            <summary>
+            Konstruktor
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Sensing.KeyPressed(System.String)">
+            <summary>
+            Provjerava je li tipka koja je poslana kao parametar pritisnuta.
+            </summary>
+            <param name="keyName">Naziv tipke.</param>
+            <returns>true/false</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sensing.KeyPressed(System.Windows.Forms.Keys)">
+            <summary>
+            Provjerava je li tipka koja je poslana kao parametar pritisnuta.
+            </summary>
+            <param name="key">Ugrađeni tip <c>Keys</c></param>
+            <returns>true/false</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sensing.KeyPressed">
+            <summary>
+            Provjerava je li bilo koja tipka pritisnuta.
+            </summary>
+            <returns>true/false</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sensing.KeyUp">
+            <summary>
+            Tipka otpuštena.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Fesb_GameSDK.Sprite">
+            <summary>
+            Klasa Sprite predstavlja lika.
+            </summary>
+        </member>
+        <member name="T:Fesb_GameSDK.Sprite.RotationStylesType">
+            <summary>
+            Način rotacije slike lika (DontRotate, AllAround, LeftRight).
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.Sprite.RotationStylesType.LeftRight">
+            <summary>
+            Lijevo - desno
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.Sprite.RotationStylesType.DontRotate">
+            <summary>
+            Nemoj rotirati
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.Sprite.RotationStylesType.AllAround">
+            <summary>
+            Rotiraj
+            </summary>
+        </member>
+        <member name="T:Fesb_GameSDK.Sprite.DirectionsType">
+            <summary>
+            Smjer
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Sprite.X">
+            <summary>
+            X koordinata.
+            </summary>
+            <remarks><c>set</c> osigurava da lik ne izlazi van ruba <see cref="T:Fesb_GameSDK.GameOptions"/></remarks>
+        </member>
+        <member name="P:Fesb_GameSDK.Sprite.Y">
+            <summary>
+            Y koordinata.
+            </summary>
+            <remarks><c>set</c> osigurava da lik ne izlazi van ruba <see cref="T:Fesb_GameSDK.GameOptions"/></remarks>
+        </member>
+        <member name="P:Fesb_GameSDK.Sprite.Width">
+            <summary>
+            Širina lika.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Sprite.Height">
+            <summary>
+            Visina lika.
+            </summary>
+        </member>
+        <member name="F:Fesb_GameSDK.Sprite.RotationStyle">
+             <summary>
+             Stil rotacije.
+             Za LeftRight ne radi rotacija slike.
+             </summary>
+            <remarks>Pogledajte: <see cref="T:Fesb_GameSDK.Sprite.RotationStylesType"/></remarks>
+        </member>
+        <member name="F:Fesb_GameSDK.Sprite.CurrentCostume">
+            <summary>
+            Trenutna slika (kostim) lika.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.#ctor(System.String,System.Int32,System.Int32)">
+            <summary>
+            Konstruktor za Sprite.
+            </summary>
+            <param name="spriteImage">naziv/putanja slike</param>
+            <param name="posX">x koordinata lika</param>
+            <param name="posY">y koordinata lika</param>
+            <remarks>Sprite se može instancirati i uz pomoć metode NewSprite koja se nalazi u klasi Game: <see cref="!:Game.NewSprite"/>.</remarks>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.GetDirection">
+            <summary>
+            Vraća trenutni smjer.
+            </summary>
+            <returns>smjer</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.GetHeading">
+            <summary>
+            Vraća trenutni smjer.
+            </summary>
+            <returns>smjer</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetDirection(System.Int32)">
+            <summary>
+            Metoda koja radi isto kao SetHeading
+            </summary>
+            <param name="direction">kut</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.CenterX">
+            <summary>
+            Središte lika.
+            </summary>
+            <returns>x koordinata središta lika.</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.CenterY">
+            <summary>
+            Središte lika.
+            </summary>
+            <returns>y koordinata središta lika.</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.GotoXY(System.Int32,System.Int32)">
+            <summary>
+            Metoda koja postavlja lika na (posX, posY) koordinate.
+            </summary>
+            <param name="posX">x koordinata</param>
+            <param name="posY">y koordinata</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetX(System.Int32)">
+            <summary>
+            Postavlja x koordinatu.
+            </summary>
+            <param name="posX">x koordinata.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetY(System.Int32)">
+            <summary>
+            Postavlja y koordinatu.
+            </summary>
+            <param name="posY">y koordinata.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.Goto_Sprite(Fesb_GameSDK.Sprite)">
+            <summary>
+            Idi do lika koji je poslan kao parametar. Postavlja se na istu poziciju (prema sredini).
+            </summary>
+            <param name="sprite">Lik do kojeg treba ići.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.Goto_MousePoint(System.Drawing.Point)">
+            <summary>
+            Idi do strelice miša.
+            </summary>
+            <param name="mouse">Koorinate miša (točka).</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.ChangeX(System.Int32)">
+            <summary>
+            Promijeni x koordinatu za n.
+            </summary>
+            <example>Promijeni x koordinatu za 5:
+            <code>lik.ChangeX(5);</code>
+            </example>
+            <param name="n">cijeli broj za koji se mijenja x koordinata.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.ChangeY(System.Int32)">
+            <summary>
+            Promijeni y koordinatu za n.
+            </summary>
+            <param name="n">cijeli broj za koji se mijenja y koordinata.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetHeading(Fesb_GameSDK.Sprite.DirectionsType)">
+            <summary>
+            Postavlja smjer.
+            </summary>
+            <param name="heading">Definirani tip.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.MoveSimple(System.Int32)">
+            <summary>
+            Metoda koja pomiče lika u 4 osnovna smjera: lijevo, desno, gore i dolje.
+            </summary>
+            <param name="steps">broj koraka</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetHeading(System.Int32)">
+            <summary>
+            Postavlja smjer lika.
+            </summary>
+            <param name="newDirectionAngle">Novi smjer u stupnjevima.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.PointToMouse(System.Drawing.Point)">
+            <summary>
+            Okreni lika prema strelici miša.
+            </summary>
+            <remarks>Tip <see cref="T:System.Drawing.Point"/> ima koordinate x i y.</remarks>
+            <param name="mis">Koordinate strelica miša</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.PointToSprite(Fesb_GameSDK.Sprite)">
+            <summary>
+            Okreni se prema drugom liku. Okrenut će se prema sredini drugog lika.
+            </summary>
+            <param name="sprite">Lik prema kojem se treba okrenuti.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.MoveSteps(System.Int32)">
+            <summary>
+            Pomakni se u trenutnom smjeru za definirani broj koraka.
+            </summary>
+            <param name="steps">Broj koraka za pomicanje.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetTransparentColor(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Postavlja prozirnu boju.
+            </summary>
+            <param name="r">-</param>
+            <param name="g">-</param>
+            <param name="b">-</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetTransparentColor(System.Drawing.Color)">
+            <summary>
+            Postavlja prozirnu boju.
+            </summary>
+            <remarks>Tip <see cref="T:System.Drawing.Color"/> je postojeći tip u C#.</remarks>
+            <param name="color">boja lika</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetSize(System.Int32)">
+            <summary>
+            Postavi veličinu lika. Ako se postavi 100, vraća se na početnu.
+            Ako se postavi na manje od 100 lik će se smanjiti, 
+            a ako se postavi na veće od 100, lik će se povećati.
+            </summary>
+            <param name="size">Veličina lika (postotak).</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.SetVisible(System.Boolean)">
+            <summary>
+            Postavlja vidljivost lika.
+            </summary>
+            <example>Ovo se može postići i postavljanjem vrijednosti Show na true ili false:
+            <code>lik.Show = true;</code></example>
+            <param name="value">true ili false</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.AddCostumes(System.String[])">
+            <summary>
+            Dodaj kostime.
+            </summary>
+            <param name="files">popis naziva datoteka.</param>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.NextCostume">
+            <summary>
+            Uzima sljedeći kostim. Napomena: U ovoj se verziji može rotirati samo prvi kostim.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.TouchingRightEdge">
+            <summary>
+            Sljedeći kostim.
+            </summary>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.TouchingEdge">
+            <summary>
+            Provjerava da li lik dira rub pozornice/prozora.
+            </summary>
+            <returns>vraća true ako dira, odnosno false ako ne dira.</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.TouchingEdge(System.String@)">
+            <summary>
+            Provjerava da li lik dira rub pozornice/prozora.
+            </summary>
+            <param name="edge">Vraća koji rub dira: left, right, up, down.</param>
+            <returns>-</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.TouchingSprite(Fesb_GameSDK.Sprite)">
+            <summary>
+            Provjerava da li lik dira nekog drugog lika.
+            </summary>
+            <param name="b">Lik kojeg možda dira.</param>
+            <returns>Vraća true/false.</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.TouchingMousePoint(System.Drawing.Point)">
+            <summary>
+            Provjerava da li lik dira strelicu miša.
+            </summary>
+            <param name="m">Pozicija miša.</param>
+            <returns>Vraća true/false.</returns>
+        </member>
+        <member name="M:Fesb_GameSDK.Sprite.Clicked(System.Drawing.Point)">
+            <summary>
+            Provjerava je li lik kliknut. Za provjeru je potrebno poslati koordinate strelice miša. 
+            Koordinate (točka) miša se mogu dobiti iz "sensing".
+            </summary>
+            <param name="mousePoint">Koordinate strelice miša.</param>
+            <returns></returns>
+        </member>
+        <member name="T:Fesb_GameSDK.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Properties.Resources.background">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Fesb_GameSDK.Properties.Resources.sky">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

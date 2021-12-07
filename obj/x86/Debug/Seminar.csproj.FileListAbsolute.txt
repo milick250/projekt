@@ -1,0 +1,118 @@
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\riba.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\cat2.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\parrot1-a.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\spaceship.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\bedroom.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\football.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\forest.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\woods.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\back.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\sky.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\coins.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\elf.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\fireCracker.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\flee.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\flee1.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\food.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\ghost.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\gift.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\ginger.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\grimreaper.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\pigeon.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\pilotbird.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\ptica.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\santa.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Seminar.exe.config
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Seminar.xml
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Seminar.exe
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Seminar.pdb
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csprojAssemblyReference.cache
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.BGL.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form1.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form2.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Properties.Resources.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.exe
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.pdb
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\riba.jpg
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\cat2.gif
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\parrot1-a.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\spaceship.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\backgrounds\bedroom.gif
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\backgrounds\football.jpg
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\backgrounds\forest.jpg
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\backgrounds\woods.gif
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\backgrounds\back.jpg
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\backgrounds\sky.jpg
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\coins.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\elf.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\fireCracker.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\flee.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\flee1.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\food.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\ghost.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\gift.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\ginger.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\grimreaper.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\pigeon.gif
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\pilotbird.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\ptica.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\sprites\santa.png
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\Seminar.exe.config
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\Seminar.xml
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\Seminar.exe
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\bin\Debug\Seminar.pdb
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csprojAssemblyReference.cache
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.BGL.resources
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form1.resources
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form2.resources
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Properties.Resources.resources
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.exe
+C:\Users\User\Desktop\dobra_verzija\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.pdb
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\backgrounds\sky.jpg
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\coins.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\flee.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\flee1.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\food.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\ghost.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\pigeon.gif
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\pilotbird.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\sprites\ptica.png
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\Seminar.exe.config
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\Seminar.xml
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\Seminar.exe
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\bin\Debug\Seminar.pdb
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.BGL.resources
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form1.resources
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form2.resources
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Properties.Resources.resources
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.exe
+C:\Users\User\Desktop\SEM_OOP_konacno\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.pdb
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\backgrounds\sky.jpg
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\coins.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\flee.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\flee1.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\food.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\ghost.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\pigeon.gif
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\pilotbird.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\sprites\ptica.png
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\Seminar.exe.config
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\Seminar.xml
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\Seminar.exe
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\bin\Debug\Seminar.pdb
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.AssemblyReference.cache
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.BGL.resources
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form1.resources
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Form2.resources
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.Properties.Resources.resources
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.GenerateResource.cache
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.exe
+C:\Users\Kuca\Desktop\New folder (4)\Kristina_Milic_Seminar\obj\x86\Debug\Seminar.pdb

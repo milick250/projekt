@@ -1,0 +1,604 @@
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\divna\Desktop\Santa v02\bin\Debug\backgrounds\back.jpg
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\elf.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\fireCracker.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\gift.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\ginger.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\sprites\santa.png
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Fesb_GameSDK.XML
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Fesb_GameSDK.exe
+C:\Users\divna\Desktop\Santa v02\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\divna\Desktop\Santa v02\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\backgrounds\back.jpg
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\elf.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\fireCracker.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\gift.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\ginger.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\sprites\santa.png
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\divna\Desktop\Vjezba 09 - pocetno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\Fesb_GameSDK.XML
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\riba.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\cat2.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\spaceship.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\backgrounds\sky.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\coins.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\elf.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\fig01.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\flee.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\food.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\ghost.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\gift.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\ginger.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\grimreaper.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\pigeon.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\pilotbird.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\sprites\santa.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\GameSDK - Projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\Fesb_GameSDK.XML
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\riba.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\cat2.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\spaceship.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\backgrounds\sky.jpg
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\coins.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\elf.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\fig01.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\flee.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\food.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\ghost.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\gift.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\ginger.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\grimreaper.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\pigeon.gif
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\pilotbird.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\sprites\santa.png
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\ivana_1oj70mi\Desktop\GameSDK - Projekt\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.XML
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\riba.jpg
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\cat2.gif
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\spaceship.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\backgrounds\sky.jpg
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\coins.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\elf.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\flee.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\food.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\ghost.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\gift.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\ginger.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\grimreaper.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\pigeon.gif
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\pilotbird.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\santa.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\flee1.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\bin\Debug\sprites\ptica.png
+C:\Users\ivana_1oj70mi\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\Fesb_GameSDK.XML
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\riba.jpg
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\cat2.gif
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\spaceship.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\backgrounds\sky.jpg
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\coins.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\elf.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\flee.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\flee1.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\food.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\ghost.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\gift.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\ginger.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\grimreaper.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\pigeon.gif
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\pilotbird.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\ptica.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\sprites\santa.png
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\Fesb_GameSDK.exe
+C:\Users\Home\Downloads\Ivana projekt\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\Home\Downloads\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+F:\Ivana projekt\bin\Debug\Fesb_GameSDK.exe.config
+F:\Ivana projekt\bin\Debug\Fesb_GameSDK.XML
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.exe
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+F:\Ivana projekt\bin\Debug\sprites\riba.jpg
+F:\Ivana projekt\bin\Debug\sprites\cat2.gif
+F:\Ivana projekt\bin\Debug\sprites\parrot1-a.png
+F:\Ivana projekt\bin\Debug\sprites\spaceship.png
+F:\Ivana projekt\bin\Debug\backgrounds\bedroom.gif
+F:\Ivana projekt\bin\Debug\backgrounds\football.jpg
+F:\Ivana projekt\bin\Debug\backgrounds\forest.jpg
+F:\Ivana projekt\bin\Debug\backgrounds\woods.gif
+F:\Ivana projekt\bin\Debug\backgrounds\back.jpg
+F:\Ivana projekt\bin\Debug\backgrounds\sky.jpg
+F:\Ivana projekt\bin\Debug\sprites\coins.png
+F:\Ivana projekt\bin\Debug\sprites\elf.png
+F:\Ivana projekt\bin\Debug\sprites\fireCracker.png
+F:\Ivana projekt\bin\Debug\sprites\flee.png
+F:\Ivana projekt\bin\Debug\sprites\flee1.png
+F:\Ivana projekt\bin\Debug\sprites\food.png
+F:\Ivana projekt\bin\Debug\sprites\ghost.png
+F:\Ivana projekt\bin\Debug\sprites\gift.png
+F:\Ivana projekt\bin\Debug\sprites\ginger.png
+F:\Ivana projekt\bin\Debug\sprites\grimreaper.png
+F:\Ivana projekt\bin\Debug\sprites\pigeon.gif
+F:\Ivana projekt\bin\Debug\sprites\pilotbird.png
+F:\Ivana projekt\bin\Debug\sprites\ptica.png
+F:\Ivana projekt\bin\Debug\sprites\santa.png
+F:\Ivana projekt\bin\Debug\Fesb_GameSDK.exe
+F:\Ivana projekt\bin\Debug\Fesb_GameSDK.pdb
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+F:\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.XML
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\riba.jpg
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\cat2.gif
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\spaceship.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\backgrounds\sky.jpg
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\coins.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\elf.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\flee.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\flee1.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\food.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\ghost.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\gift.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\ginger.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\grimreaper.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\pigeon.gif
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\pilotbird.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\ptica.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\sprites\santa.png
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.exe
+C:\Users\admn\Desktop\Ivana projekt\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\admn\Desktop\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\Fesb_GameSDK.XML
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\riba.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\cat2.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\parrot1-a.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\spaceship.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\backgrounds\bedroom.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\backgrounds\football.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\backgrounds\forest.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\backgrounds\woods.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\backgrounds\back.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\backgrounds\sky.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\coins.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\elf.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\fireCracker.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\flee.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\flee1.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\food.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\ghost.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\gift.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\ginger.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\grimreaper.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\pigeon.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\pilotbird.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\ptica.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\sprites\santa.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana projekt\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.XML
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\riba.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\cat2.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\parrot1-a.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\spaceship.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\backgrounds\bedroom.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\backgrounds\football.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\backgrounds\forest.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\backgrounds\woods.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\backgrounds\back.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\backgrounds\sky.jpg
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\coins.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\elf.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\fireCracker.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\flee.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\flee1.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\food.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\ghost.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\gift.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\ginger.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\grimreaper.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\pigeon.gif
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\pilotbird.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\ptica.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\sprites\santa.png
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\ivana_1oj70mi\Desktop\OBJEKTNO VJEŽBE\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.XML
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\riba.jpg
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\cat2.gif
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\parrot1-a.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\spaceship.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\backgrounds\bedroom.gif
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\backgrounds\football.jpg
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\backgrounds\forest.jpg
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\backgrounds\woods.gif
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\backgrounds\back.jpg
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\backgrounds\sky.jpg
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\coins.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\elf.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\fireCracker.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\flee.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\flee1.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\food.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\ghost.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\gift.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\ginger.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\grimreaper.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\pigeon.gif
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\pilotbird.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\ptica.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\sprites\santa.png
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.exe
+C:\Users\admn\Desktop\Ivana_projekt_radi\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\admn\Desktop\Ivana_projekt_radi\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\riba.jpg
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\cat2.gif
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\parrot1-a.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\spaceship.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\backgrounds\bedroom.gif
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\backgrounds\football.jpg
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\backgrounds\forest.jpg
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\backgrounds\woods.gif
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\backgrounds\back.jpg
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\backgrounds\sky.jpg
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\coins.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\elf.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\fireCracker.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\flee.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\flee1.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\food.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\ghost.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\gift.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\ginger.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\grimreaper.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\pigeon.gif
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\pilotbird.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\ptica.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\sprites\santa.png
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\admn\Desktop\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\admn\Desktop\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\riba.jpg
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\cat2.gif
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\parrot1-a.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\spaceship.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\bedroom.gif
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\football.jpg
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\forest.jpg
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\woods.gif
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\back.jpg
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\sky.jpg
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\coins.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\elf.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\fireCracker.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\flee.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\flee1.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\food.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\ghost.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\gift.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\ginger.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\grimreaper.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\pigeon.gif
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\pilotbird.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\ptica.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\santa.png
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\ivana_1oj70mi\Desktop\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\riba.jpg
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\cat2.gif
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\parrot1-a.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\spaceship.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\bedroom.gif
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\football.jpg
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\forest.jpg
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\woods.gif
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\back.jpg
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\backgrounds\sky.jpg
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\coins.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\elf.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\fireCracker.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\flee.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\flee1.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\food.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\ghost.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\gift.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\ginger.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\grimreaper.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\pigeon.gif
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\pilotbird.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\ptica.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\sprites\santa.png
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\Marija Radić\Desktop\faks\OOP\OBJEKTNO-SVE\PROJEKT ZA PREDATI\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\riba.jpg
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\cat2.gif
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\parrot1-a.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\spaceship.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\bedroom.gif
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\football.jpg
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\forest.jpg
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\woods.gif
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\back.jpg
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\sky.jpg
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\coins.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\elf.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\fireCracker.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\flee.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\flee1.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\food.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ghost.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\gift.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ginger.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\grimreaper.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\pigeon.gif
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\pilotbird.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ptica.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\santa.png
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\Marija Radić\Desktop\za kristu\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\riba.jpg
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\cat2.gif
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\parrot1-a.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\spaceship.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\bedroom.gif
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\football.jpg
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\forest.jpg
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\woods.gif
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\back.jpg
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\sky.jpg
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\coins.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\elf.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\fireCracker.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\flee.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\flee1.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\food.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ghost.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\gift.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ginger.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\grimreaper.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\pigeon.gif
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\pilotbird.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ptica.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\santa.png
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csprojAssemblyReference.cache
+C:\Users\User\Desktop\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\obj\x86\Debug\Fesb_GameSDK.pdb
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\riba.jpg
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\cat2.gif
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\parrot1-a.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\spaceship.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\bedroom.gif
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\football.jpg
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\forest.jpg
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\woods.gif
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\back.jpg
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\backgrounds\sky.jpg
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\coins.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\elf.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\fireCracker.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\flee.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\flee1.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\food.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ghost.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\gift.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ginger.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\grimreaper.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\pigeon.gif
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\pilotbird.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\ptica.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\sprites\santa.png
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.XML
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.exe
+C:\Users\User\Desktop\kopije\kopija2\flappyy\Ivana_projekt_konacno\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\riba.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\cat2.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\parrot1-a.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\spaceship.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\bedroom.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\football.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\forest.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\woods.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\back.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\backgrounds\sky.jpg
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\coins.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\elf.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\fireCracker.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\flee.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\flee1.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\food.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\ghost.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\gift.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\ginger.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\grimreaper.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\pigeon.gif
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\pilotbird.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\ptica.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\sprites\santa.png
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Fesb_GameSDK.exe.config
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Fesb_GameSDK.XML
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Fesb_GameSDK.exe
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\bin\Debug\Fesb_GameSDK.pdb
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.csprojAssemblyReference.cache
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.BGL.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.Form1.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.Form2.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.Properties.Resources.resources
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.csproj.GenerateResource.cache
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.exe
+C:\Users\User\Desktop\igra_kopija\flappyy\Kristina_Milic_Seminar\obj\x86\Debug\Fesb_GameSDK.pdb
